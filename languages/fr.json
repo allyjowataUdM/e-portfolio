@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "item2": "/À propos de moi",
+        "item3": "/Compétences",
+        "item4": "/Formation",
+        "item5": "/Projets",
+        "item6": "/Contact"
+    },
+    "home": {
+        "home_text-1": "Salut ! Je suis",
+        "home_text-3": "Développeur logiciels",
+        "parrafo-info": "Etudiant génie logiciel créatif motivé de premier cycle. Passionné par l'environnement et technologies émergentes. En tant que personne qui aime les designs intuitifs et esthétiques, je chercher à créer des projets qui offrent la meilleure expérience utilisateur.",
+        "cv_button": "Télécharger le CV",
+        "contact_button": "Contact"
+    },
+    "sobre-mi": {
+        "title": "À propos de moi",
+        "texto_sobreMi": "Je suis étudiant en génie logiciel dans le domaine du développement, en me concentrant sur la programmation Backend. <br> J'aspire à trouver un emploi dans le monde du développement Web, acquérir de l'expérience, de nouvelles connaissances et renforcer ma vie professionnelle. <br> <br> Je suis une personne empathique et enthousiaste, dotée de compétences axées sur le travail d'équipe, la communication assertive, la résolution de problèmes, la responsabilité et la proactivité. J'aime apprendre des autres et m'améliorer en permanence."
+    },
+    "habilidades": {
+        "title": "Compétences"
+    },
+    "formacion": {
+        "title": "Formation",
+        "formacion1": "License DULT Génie Logiciel",
+        "tiempo-formacion1": "09/2020 - Present",
+        "formacion2": "Stagiaire Développeur Logiciel",
+        "tiempo-formacion2": "07/2022 - 09/2022",
+        "formacion3": "Comptabilité pour les transactions commerciales et financières"
+    },
+    "proyectos": {
+        "title": "Projets",
+        "title-proyecto1": "Nualer",
+        "info-proyecto1": "Une application mobile permettant aux passagers de voyager autour de l'île Maurice. Comprend la réservation d'un taxi et la location d'une voiture.",
+        "title-proyecto2": "Système d'entrepôt intelligent",
+        "info-proyecto2": "Un système de gestion de bureau pour entrepôt qui utilise des capteurs intelligents pour gérer les marchandises.",
+        "title-proyecto3": "Encrypteur de texte",
+        "info-proyecto3": "Un encrypteur où l'utilisateur peut saisir un texte et l'encrypteur l'encrypte avec des clés préprogrammées."
+    },
+    "contacto": {
+        "title": "Contact",
+        "text": "Remplissez le formulaire ci-dessous et je vous contacterai dès que possible.",
+        "btn-enviar": "Envoyer"
+    }
+}

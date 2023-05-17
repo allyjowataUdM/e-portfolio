@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "item2": "/About me",
+        "item3": "/Skills",
+        "item4": "/Training",
+        "item5": "/Projects",
+        "item6": "/Contact"
+    },
+    "home": {
+        "home_text-1": "Hello! I'm",
+        "home_text-3": "Software Developer",
+        "parrafo-info": "Creative and motivated software engineering undergraduate student. Passionate about the environment and emerging technologies.As a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "I'm a Software Engineering undergraduate student. I focus on Backend programming.<br>I aspire to get a job in the Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+    },
+    "habilidades": {
+        "title": "Skills"
+    },
+    "formacion": {
+        "title": "Training",
+        "formacion1": "BSc (Hons) Software Engineering",
+        "tiempo-formacion1": "09/2020 - Present",
+        "formacion2": "Intern Software Developer",
+        "tiempo-formacion2": "07/2022 - 09/2022",
+        "formacion3": "Accounting for Commercial and Financial Transactions"
+    },
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Nualer",
+        "info-proyecto1": "A mobile app for passengers to travel around the island in Mauritius. Includes booking a taxi and car rental.",
+        "title-proyecto2": "Smart Warehouse System",
+        "info-proyecto2": "A desktop management system for warehouse which uses smart sensors to manage goods in a warehouse without human interaction.",
+        "title-proyecto3": "Text Encryptor",
+        "info-proyecto3": "An encryptor where the user can type a text and the encryptor encrypts it with pre-programmed keys."
+    },
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}
